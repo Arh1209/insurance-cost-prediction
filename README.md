@@ -1,6 +1,8 @@
 # Medical Insurance Cost Prediction
 
 This project predicts medical insurance charges using machine learning regression algorithms.
+<img width="615" height="667" alt="image" src="https://github.com/user-attachments/assets/65fe55d8-ae3f-40ed-8783-649d1015da57" />
+
 
 ## Dataset Features
 
